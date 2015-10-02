@@ -1,2 +1,3 @@
 ﻿cd C:\Users\Administrator\Desktop\MoppetSandal
-vboxmanage controlvm languangcopy1210_20150924 poweroff
+vboxmanage startvm  languangcopy42673_20150928
+vboxmanage startvm  languangcopy2252_20150928
